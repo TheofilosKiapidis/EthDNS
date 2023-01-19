@@ -14,4 +14,4 @@ The name of a home is seperated from the name of a room by a dot(.). Therefore t
 ``theofiloskiapidis.videos`` -> "theofiloskiapidis" is a home that has an IP and "videos" is a room that has a port.
 In this house's room there is a video-hosting service such as peertube.
 
-_The contract is not tested. Feel free to test or modify_
+_The contract is not tested, only a concept. Feel free to test or modify._
